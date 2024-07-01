@@ -30,4 +30,4 @@ git-plus clone https://github.com/OnlyPiglet/watchdog.git
 ### 安装
 
 #### go 安装
-go install github.com:OnlyPiglet/git-plus@latest
+go install github.com/OnlyPiglet/git-plus@latest
