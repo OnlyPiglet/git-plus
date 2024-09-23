@@ -1,11 +1,11 @@
+github.com/OnlyPiglet/go-git-url v0.0.0-20240923130222-f20cd799af98 h1:ksqthjuAjU5g+8f3hwOAKgL56WEZ9WMq7/kEvWchZ88=
+github.com/OnlyPiglet/go-git-url v0.0.0-20240923130222-f20cd799af98/go.mod h1:3ddc1HEflms1vMhD9owt/3FBES070UaYTUarcjx8jDk=
 github.com/chainguard-dev/git-urls v1.0.2 h1:pSpT7ifrpc5X55n4aTTm7FFUE+ZQHKiqpiwNkJrVcKQ=
 github.com/chainguard-dev/git-urls v1.0.2/go.mod h1:rbGgj10OS7UgZlbzdUQIQpT0k/D4+An04HJY7Ol+Y/o=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-logr/logr v0.1.0/go.mod h1:ixOQHD9gLJUVQQ2ZOR7zLEifBX6tGkNJF4QyIY7sIas=
-github.com/kubescape/go-git-url v0.0.30 h1:PIbg86ae0ftee/p/Tu/6CA1ju6VoJ51G3sQWNHOm6wg=
-github.com/kubescape/go-git-url v0.0.30/go.mod h1:3ddc1HEflms1vMhD9owt/3FBES070UaYTUarcjx8jDk=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/spf13/afero v1.2.2/go.mod h1:9ZxEEn6pIJ8Rxe320qSDBk6AsU0r9pR7Q4OcevTdifk=

@@ -13,7 +13,6 @@ import (
 )
 
 func main() {
-
 	err := ecmd.Exec("git", "version")
 
 	if err != nil {
